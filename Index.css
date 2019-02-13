@@ -7,12 +7,17 @@ body{
 p{
 
 }
-main{
+h1{
+color: red;
+}
+.main{
+display: flex;
+justify-content: space-between;
+width: 600px;
+}
+.formacoes{
 
 }
-formacoes{
-
-}
-descricaoFormacoes{
+.descricaoFormacoes{
 
 }
