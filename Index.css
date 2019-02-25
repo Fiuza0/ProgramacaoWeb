@@ -21,3 +21,34 @@ width: 600px;
 .descricaoFormacoes{
 
 }
+.header {
+  padding: 60px;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+.HeaderDescription {
+  font-size: 20px;
+  text-align: justify;
+}
+.ProfileImage {
+  text-align: left;
+  width: 250px;
+  height: 150px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.FooterLogo {
+  height: 50px;
+  width: 50px;
+}
+.habilidades {
+  font-size: 50px;
+}
